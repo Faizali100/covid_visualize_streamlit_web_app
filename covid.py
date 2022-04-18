@@ -1,10 +1,8 @@
 
 
 # import libraries
-from turtle import showturtle
 import matplotlib.pyplot as plt
 import plotly.express as px
-from pyparsing import line_end
 import streamlit as st
 import pandas as pd
 import numpy as np
